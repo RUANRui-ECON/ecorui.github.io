@@ -1,6 +1,6 @@
 # 阮睿
 
-邮箱地址：ruanruiphi@cufe.edu.cn
+邮箱地址：ruanrui@cufe.edu.cn
 
 通信地址：北京市昌平区高教园中央财经大学沙河校区学院楼 10 号楼 133
 
