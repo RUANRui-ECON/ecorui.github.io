@@ -1,6 +1,8 @@
 # 阮睿
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+邮箱地址：ruanruiphi@cufe.edu.cn
+
+通信地址：北京市昌平区高教园中央财经大学沙河校区学院楼 10 号楼 133
 
 ## 工作经历
 
